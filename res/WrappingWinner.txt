@@ -1,0 +1,217 @@
+********************** Starting the Game!! ****************************
+   ||    ||    ||       
+==(01)==(02)==(03)==(04)==
+         ||             
+==(05)  (06)  (:G)==(08)==
+                     || 
+   TT ==(10)==(11)==(12)
+   ||    ||    ||    || 
+  (13)  (:P)  (15)  (16)
+   ||    ||    ||       
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 14 It is a cave
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 10
+SOUTH-> Cave: 2
+In the current position the available treasure is : 
+{DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+p
+************ WOOHOO!! You found yourself some treasure ***************
+Type yes if you want to pick up the treasure : 
+yes
+Type yes if you want to pick up the DIAMONDS :
+yes
+Successfully picked available DIAMONDS
+Type yes if you want to pick up the RUBY :
+yes
+Successfully picked available RUBY
+Type yes if you want to pick up the SAPPHIRE :
+yes
+Successfully picked available SAPPHIRE
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 14 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 3
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 10
+SOUTH-> Cave: 2
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 10
+SOUTH-> Cave: 2
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+w
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 10 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 3
+****************************************************************
+
+BEWARE!! Smells little pungent in here!!
+
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 14
+EAST-> Cave: 11
+WEST-> Cave: 9
+In the current position the available treasure is : 
+{DIAMONDS=100, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: SOUTH-> Cave: 14
+EAST-> Cave: 11
+WEST-> Cave: 9
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+d
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 11 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 3
+****************************************************************
+
+BEWARE!! Smells very pungent in here!! 
+
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 15
+EAST-> Cave: 12
+WEST-> Cave: 10
+In the current position the available treasure is : 
+{DIAMONDS=300, SAPPHIRE=0, RUBY=300}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: SOUTH-> Cave: 15
+EAST-> Cave: 12
+WEST-> Cave: 10
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+d
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 12 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 3
+****************************************************************
+
+BEWARE!! Smells very pungent in here!! 
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 8
+SOUTH-> Cave: 16
+WEST-> Cave: 11
+In the current position the available treasure is : 
+{DIAMONDS=100, SAPPHIRE=0, RUBY=300}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 8
+SOUTH-> Cave: 16
+WEST-> Cave: 11
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+w
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 8 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 3
+****************************************************************
+
+BEWARE!! Smells very pungent in here!! 
+
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 12
+EAST-> Cave: 5
+WEST-> Cave: 7
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+s
+Enter a number : At what distance do you want to shoot? 1-5 
+1
+Enter the direction you want to shoot in --->  W: North,  S: South, A: West, D: Easta
+You hear a great howl in the distance
+Type yes to shoot again : 
+yes
+Enter a number : At what distance do you want to shoot? 1-5 
+1
+Enter the direction you want to shoot in --->  W: North,  S: South, A: West, D: Easta
+You hear a great howl in the distance
+Type yes to shoot again : 
+no
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 8 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 1
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 12
+EAST-> Cave: 5
+WEST-> Cave: 7
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: SOUTH-> Cave: 12
+EAST-> Cave: 5
+WEST-> Cave: 7
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+a
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 7 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 1
+****************************************************************
+
+ *********************Wining PLayer**************************** 
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 7 It is a cave
+Player is with treasure: {DIAMONDS=300, SAPPHIRE=300, RUBY=100}
+Player is with arrows: 1
+****************************************************************
+
+Player Successfully Reached the End of the Dungeon
+
+Thank you for playing
+
+Process finished with exit code 0

@@ -1,0 +1,51 @@
+********************** Starting the Game!! ****************************
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 17 It is a cave
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+BEWARE!! Smells little pungent in here!!
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 12
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 12
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+w
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 12 It is a cave
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+BEWARE!! Smells very pungent in here!! 
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 17
+EAST-> Cave: 13
+WEST-> Cave: 11
+In the current position the available treasure is : 
+{DIAMONDS=300, SAPPHIRE=0, RUBY=300}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: SOUTH-> Cave: 17
+EAST-> Cave: 13
+WEST-> Cave: 11
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+d
+Chomp, chomp, chomp, you are eaten by an Otyugh!! Better luck next time......
+Process finished with exit code 1

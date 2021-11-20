@@ -1,0 +1,258 @@
+********************** Starting the Game!! ****************************     
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 29 It is a cave
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 23
+In the current position the available treasure is : 
+{DIAMONDS=200, SAPPHIRE=300, RUBY=300}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 23
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+w
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 23 It is a cave
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 17
+SOUTH-> Cave: 29
+EAST-> Cave: 24
+WEST-> Cave: 22
+In the current position the available treasure is : 
+{DIAMONDS=100, SAPPHIRE=300, RUBY=300}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 17
+SOUTH-> Cave: 29
+EAST-> Cave: 24
+WEST-> Cave: 22
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+a
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 22 It is a cave
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 28
+EAST-> Cave: 23
+WEST-> Cave: 21
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: SOUTH-> Cave: 28
+EAST-> Cave: 23
+WEST-> Cave: 21
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+s
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 28 It is a cave
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 22
+SOUTH-> Cave: 4
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 22
+SOUTH-> Cave: 4
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+s
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 4 It is a tunnel
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 3
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 28
+EAST-> Cave: 5
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+p
+************ Ohh Yeah!! You found yourself an arrow *****************
+Type yes if you want to pick up the arrow : 
+yes
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 4 It is a tunnel
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 4
+****************************************************************
+
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 28
+EAST-> Cave: 5
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 28
+EAST-> Cave: 5
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+d
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 5 It is a tunnel
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 4
+****************************************************************
+
+BEWARE!! Smells little pungent in here!!
+
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 11
+WEST-> Cave: 4
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+p
+************ Ohh Yeah!! You found yourself an arrow *****************
+Type yes if you want to pick up the arrow : 
+yes
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 5 It is a tunnel
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 5
+****************************************************************
+
+BEWARE!! Smells little pungent in here!!
+
+In the current position the available paths with the player are : 
+SOUTH-> Cave: 11
+WEST-> Cave: 4
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: SOUTH-> Cave: 11
+WEST-> Cave: 4
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+s
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 11 It is a tunnel
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 5
+****************************************************************
+
+BEWARE!! Smells very pungent in here!! 
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 5
+EAST-> Cave: 12
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+p
+No Treasure/Arrow Available at Current Location
+
+BEWARE!! Smells very pungent in here!! 
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 5
+EAST-> Cave: 12
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+s
+Enter a number : At what distance do you want to shoot? 1-5 
+1
+Enter the direction you want to shoot in --->  W: North,  S: South, A: West, D: Eastd
+You hear a great howl in the distance
+Type yes to shoot again : 
+1
+
+***************** CURRENT PLAYER STATUS *************************
+Player is currently at: 11 It is a tunnel
+Player is with treasure: {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Player is with arrows: 4
+****************************************************************
+
+BEWARE!! Smells very pungent in here!! 
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 5
+EAST-> Cave: 12
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+d
+Invalid input!! Please provide proper input!!
+
+BEWARE!! Smells very pungent in here!! 
+
+In the current position the available paths with the player are : 
+NORTH-> Cave: 5
+EAST-> Cave: 12
+In the current position the available treasure is : 
+{DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Please Enter 'M' to move to new cave,'P' to pick up treasure/arrows, 'S' to shoot an arrow
+m
+
+Enter the key for your next move among available paths: NORTH-> Cave: 5
+EAST-> Cave: 12
+
+ W: North 
+ S: South 
+ A: West 
+ D: East 
+d
+Chomp, chomp, chomp, you are eaten by an Otyugh!! Better luck next time......
+Process finished with exit code 1
