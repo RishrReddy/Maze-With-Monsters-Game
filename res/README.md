@@ -1,7 +1,7 @@
 ![Jumptastic Game](https://cdna.artstation.com/p/assets/images/images/010/248/334/large/jordon-gonzales-jordongonzaleslookdevfinal.jpg?1523394149&dl=1)
 
   <p align="center">
-    <strong>Welcome to the World of Dungeons!!!</strong>
+    <strong>Welcome to the World of Dungeons 2.0 !!!</strong>
 </p>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-We are back again with a new adventurous game "The World of Dungeons". The world for our game consists of a model, a network of tunnels and caves that are interconnected so that player can explore the entire world by traveling from cave to cave through the tunnels that connect them. Let's dive in and explore some cool features. The Dungeon is filled with Monsters (Otyughs), players can move through
+We are back again with a new adventurous game "The World of Dungeons 2.0". The world for our game consists of a model, a network of tunnels and caves that are interconnected so that player can explore the entire world by traveling from cave to cave through the tunnels that connect them. Let's dive in and explore some cool features. The Dungeon is filled with Monsters (Otyughs), players can move through
 caves and shoot the otyughs using arrows. Players cannot enter caves with Otyughs.
 
 The game proceeds as follows:
@@ -45,6 +45,32 @@ The game proceeds as follows:
 * Player can move in one of the four directions(NORTH, SOUTH, EAST and WEST) if there is path connecting his current cave to the next cave.
 * Players can shoot the monsters and kill them.
 * Finally, the player wins when he reaches the end cave without a monster or encounters a half injured monster.
+
+<!-- Guidelines to the Player -->
+
+## Guidelines to the Player
+
+### <strong> <u> <i> Monsters:  </i> </u> </strong>
+Otyughs (Links to an external site.) are extremely smelly creatures that lead solitary lives in the deep, dark places of the world like our dungeon.
+```
+* There is always at least one Otyugh in the dungeon at the end cave.
+* Otyughs are always found in caves and not in tunnels.
+* They can be detected by their smell. In general, the player can detect two levels of smell:
+        1. A less pungent smell can be detected when there is a single Otyugh 2 positions from the player's current location.
+        2. A more pungent smell when there is a single Otyugh 1 position from the player's current location, 
+           or that there are multiple Otyughs within 2 positions from the player's current location.
+* A player entering a cave with an Otyugh that has not been slayed will be killed and eaten.
+```
+
+### <strong> <u> <i> Slaying a Monster:  </i> </u> </strong>
+* A player that has arrows, can attempt to slay an Otyugh by specifying a direction and distance in which to shoot their crooked arrow. 
+* Distance is defined as the number of caves (but not tunnels) that an arrow travels. Arrows travel freely down tunnels (even crooked ones) but only travel in a straight line through a cave.
+```
+1. A tunnel that has exits to the west and south can have an arrow enter the tunnel from the west and exit the tunnel to the south, or vice-versa (this is the reason the arrow is called a crooked arrow).
+2. A cave that has exits to the east, south, and west will allow an arrow to enter from the east and exit to the west, or vice-versa; but an arrow that enters from the south would be stopped since there is no exit to the north.
+```
+* Distances must be exact. For example, if you shoot an arrow a distance of 3 to the east and the Otyugh is at a distance of 2, you miss the Otyugh.
+* It takes 2 hits to kill an Otyugh. Players has a 50% chance of escaping if the Otyugh if they enter a cave of an injured Otyugh that has been hit by a single crooked arrow.
 
 <!-- List of Features -->
 
